@@ -51,9 +51,6 @@ left: 50%;
 transform: translate(-50%, -50%);
 text-align: center;
 }
-.middle h1 {
-letter-spacing:1rem;
-}
 #demo{
   font-size:30px;
   padding: 10px;
@@ -70,8 +67,7 @@ letter-spacing:1rem;
 /* Style the <hr> element */
 hr {
 margin: auto;
-width: 50%;
-opacity: 0.3;
+width: 40%;
 }
 
 /* left side */
