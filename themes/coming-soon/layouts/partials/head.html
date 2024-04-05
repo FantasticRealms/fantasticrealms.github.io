@@ -2,6 +2,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>{{ .Site.Params.title}}</title>
+    <style>body {background:black;}</style>
     <link rel="canonical" href="{{ .Permalink }}">
     {{ if .Site.Params.favicon }}
         <link rel="icon" type="image/x-icon" href="{{ .Site.Params.favicon | relURL}}">

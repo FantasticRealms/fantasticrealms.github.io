@@ -3,18 +3,18 @@ languageCode = 'en-us'
 theme = "coming-soon"
 
 [params]
-    title = "Fantastic Realms" 
+    title = "Fantastic Realms"
     description = "Tales of adventure, fantasy, science fiction, horror, and more. An AI platform for writers. A community for fans."
     favicon = ""
-    message = "COMING OCTOBER 2024" 
-    release = "October 1, 2024" 
-    background = "" 
+    message = "COMING FALL 2024"
+    release = "October 1, 2024"
+    background = ""
 
 socialIcons = [
-    {name = "email", url = "info@fantasticrealms.com"},      
-#    {name = "twitter", url = "https://twitter.com/"},    
-#    {name = "facebook", url = "https://facebook.com/"},    
-#    {name = "github", url = "https://github.com/"},    
-#    {name = "instagram", url = "https://instagram.com/"},    
-#    {name = "tiktok", url = "https://tiktok.com/"},    
-] 
+    {name = "twitter", url = "https://twitter.com/tonypujals"},
+#    {name = "email", url = "info@fantasticrealms.com"},
+#    {name = "facebook", url = "https://facebook.com/"},
+#    {name = "github", url = "https://github.com/"},
+#    {name = "instagram", url = "https://instagram.com/"},
+#    {name = "tiktok", url = "https://tiktok.com/"},
+]
